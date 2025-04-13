@@ -1,0 +1,6 @@
+#
+---
+title: "Solution for Week 7: Interpolation / Density Estimation"
+format: html
+---
+# 
