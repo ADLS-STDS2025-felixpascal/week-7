@@ -1,10 +1,13 @@
-#
 ---
 title: "Solution for Week 7: Interpolation / Density Estimation"
-format: html
+format:
+  html:
+    toc: true
+    number-sections: true
+project:
+  type: website
+  output-dir: docs
 ---
-# 
-
 
 ## Spatial Interpolation of NO₂ Measurements in Switzerland
 
